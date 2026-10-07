@@ -1,0 +1,27 @@
+DEVICE: Evondos Medication Dispenser
+
+CATEGORY: Medication support
+
+DESCRIPTION:
+Evondos is an automated medication dispensing system
+designed to support medication routines.
+
+FUNCTIONS:
+- Provides medication reminders.
+- Dispenses medication at scheduled times.
+- Helps organize medication doses.
+- Can support independent living.
+
+SUITABLE FOR:
+- People who need support with medication routines.
+- People who sometimes forget to take medication.
+- People who need assistance with regular medication.
+
+BENEFITS:
+- Supports regular medication routines.
+- Can reduce the need to remember medication times.
+
+IMPORTANT:
+This document provides general information.
+Suitability for an individual should be assessed by
+an appropriate healthcare professional.

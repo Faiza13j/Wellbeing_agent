@@ -1,0 +1,26 @@
+Device:Axitare Medication Dispenser
+Category: Medication support
+
+Description:
+Axitare is an automated medication dispensing system
+designed to support people with their medication routines.
+
+Main functions:
+- Reminds the user when medication should be taken.
+- Dispenses the medication at the correct time.
+- Helps organize medication doses.
+- Can support independent living.
+
+Suitable situations:
+- People who sometimes forget to take medication.
+- Elderly people who need support with medication routines.
+- People who need assistance managing regular medication.
+
+Benefits:
+The device can help make medication routines easier and
+more organized.
+
+Important:
+The information in this document is for general information.
+A healthcare professional should assess whether the device
+is suitable for an individual person.

@@ -1,0 +1,5 @@
+Hearing Aid
+
+A hearing aid is a small electronic device worn in or behind the ear to help people with hearing difficulties, especially 
+older adults. It **amplifies speech and important sounds** and can provide **noise reduction** to make voices easier to 
+hear and understand in everyday situations.

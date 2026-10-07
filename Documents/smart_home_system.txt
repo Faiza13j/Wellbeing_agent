@@ -1,0 +1,47 @@
+Device: Smart Home System
+Category: Automated environment and safety support
+
+Description:
+A Smart Home System integrates connected devices, automated sensors, and voice controls into the living environment to streamline daily tasks, monitor safety, and support independent living for older adults.
+
+Main functions:
+
+Automates home lighting, heating, and household appliances based on schedules or motion.
+
+Monitors the environment to detect unusual situations, falls, gas/water leaks, or potential emergencies.
+
+Provides hands-free voice control to adjust ambient temperature, control lights, and activate connected electronics.
+
+Sends automated alerts and real-time status updates to family members and home care networks.
+
+Suitable situations:
+
+Older adults living independently who want a safer, more manageable home environment.
+
+Individuals with reduced physical mobility or dexterity who struggle with manual switches and controls.
+
+People who require subtle background monitoring for daily activities and safety without sacrificing privacy.
+
+Seniors living alone who want direct, automated links to family or emergency response teams.
+
+Benefits:
+The system enhances everyday convenience, significantly reduces home accident risks, fosters long-term independence, and provides crucial peace of mind for family and caregivers.
+
+Important:
+System setups should be tailored to individual needs and mobility levels. A technical assessment and caregiver consultation are recommended to determine the best combination of sensors and automated features.
+
+
+Device: Smart Home System
+Category: Automated environment & safety support
+
+Main Functions & Benefits:
+
+Hands-free voice control for lighting, temperature, and electronics
+
+Automated environmental controls (smart lights, climate adjustments)
+
+Safety monitoring to detect falls, leaks, or emergency situations
+
+Real-time peace of mind and alert notifications for family & caregivers
+
+Designed for solo living, reduced mobility, and long-term home independence

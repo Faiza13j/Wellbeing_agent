@@ -1,0 +1,53 @@
+Device: Smart Tablet (Senior Tablet)
+Category: Digital care and daily communication support
+
+Description:
+A Smart Tablet for seniors is a simple touchscreen device loaded with accessible software that helps older adults maintain daily routines, communicate with care networks, and access digital activities.
+
+Main functions:
+
+Provides automated reminders for wake-up times, medications, showering, meals, hydration, and appointments.
+
+Displays a clear daily schedule of planned routines and activities.
+
+Facilitates direct video calling and messaging with family members, friends, and care staff (hoitaja).
+
+Streams live or recorded online wellness classes, including exercise (Jumppa), music, and language courses.
+
+Offers interactive brain-training activities, memory exercises, and casual games.
+
+Enables remote care monitoring so caregivers can track whether essential routines are being followed.
+
+Suitable situations:
+
+Older adults living independently who need daily support with scheduling and medication routines.
+
+Seniors with mild memory challenges who benefit from visual and auditory prompts.
+
+Individuals experiencing isolation or limited physical mobility who want to stay connected with family and health professionals.
+
+Elderly individuals looking for simple, accessible mental stimulation and home-based exercise.
+
+Benefits:
+The tablet reduces loneliness through direct social connection, supports daily routine compliance, promotes cognitive health, and helps older adults live safely and independently at home.
+
+Important:
+The information in this document is for general information. Individual needs and tech-literacy levels should be assessed by family members or healthcare providers to choose the appropriate tablet interface and settings.
+
+Presentation Version (Slide Summary)
+Device: Smart Tablet
+Category: Daily communication & routine support
+
+Main Functions & Benefits:
+
+Medication & routine reminders (waking up, meals, hygiene, appointments)
+
+One-touch video calls with family and home care (hoitaja)
+
+Access to online Jumppa (exercise), music, and wellbeing classes
+
+Brain-training games, puzzles, and memory exercises
+
+Daily schedule overview and remote care tracking
+
+Reduces social isolation and promotes independent living at home

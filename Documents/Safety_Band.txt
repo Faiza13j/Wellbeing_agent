@@ -1,0 +1,24 @@
+Device: Safety Band
+
+Category: Personal safety
+
+Description:
+A safety band is a wearable wellbeing technology device
+that can support safety and emergency assistance.
+
+Main functions:
+- Can be worn on the wrist.
+- Can provide a way to request help.
+- Can support safety at home and outside the home.
+
+Suitable situations:
+- Elderly people living independently.
+- People who may need emergency assistance.
+- People who are concerned about personal safety.
+
+Benefits:
+The device can provide additional support and reassurance
+for independent living.
+
+Important:
+The exact functions depend on the specific safety band model.

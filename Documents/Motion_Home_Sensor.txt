@@ -1,0 +1,28 @@
+Device: Motion Home Sensors
+
+Category: Home safety
+
+Description:
+A motion sensor detects movement in a home environment.
+It can be used as part of a smart home or wellbeing
+technology system.
+
+Main functions:
+- Detects movement.
+- Can support home monitoring.
+- Can provide information about activity in selected areas.
+
+Suitable situations:
+- Elderly people living alone.
+- Supporting safe independent living.
+- Monitoring activity in the home.
+
+Benefits:
+Motion sensors can provide additional information about
+activity in the home and may support safety services. and it also helps he is fine because when
+he wakes up and room around home like visit kitchen and bathroom so his traces shows in the software
+his loved one can check he is totally fine.
+
+Important:
+The sensor should be used according to the instructions
+and privacy requirements.

@@ -1,0 +1,31 @@
+Smart Blood Pressure Monitor
+
+A smart blood pressure monitor is a digital device used to measure a person's blood pressure and pulse. It can make it easier to record and monitor blood pressure measurements at home.
+
+The device may connect to a smartphone, tablet, or other digital system so that measurement results can be stored, viewed, and monitored over time.
+
+Main features may include:
+
+* Digital measurement of blood pressure and pulse
+* Automatic or semi-automatic measurement
+* Digital display showing measurement results
+* Storage of previous measurements
+* Connection to a smartphone or other digital device, depending on the model
+* Automatic transfer or sharing of measurement data in some systems
+* Alerts or notifications when measurements require attention, depending on the device
+
+Possible benefits include:
+
+* Makes regular blood pressure monitoring easier
+* Helps users keep track of measurements over time
+* Reduces the need to manually record every measurement
+* Can support remote monitoring by healthcare professionals when the system provides this functionality
+* Helps caregivers or healthcare staff access measurement information when appropriate
+
+Basic use:
+
+The user normally sits quietly before taking the measurement and places the cuff correctly around the upper arm or wrist, depending on the device. The user then starts the measurement and waits for the result.
+
+For accurate measurements, the instructions provided with the specific device should always be followed.
+
+A smart blood pressure monitor is a monitoring tool and does not replace professional medical advice or diagnosis. If a user has concerns about their blood pressure or receives an unusual measurement, they should follow the advice of their healthcare professional.
