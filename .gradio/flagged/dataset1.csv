@@ -1,0 +1,16 @@
+Ask your question,Answer,Sources,Performance,timestamp
+i feel difficulty to move around,,,,2026-10-08 19:12:38.680052
+i need medicine on time,,,,2026-10-08 19:26:27.962697
+i need medicine on time,,,,2026-10-08 19:26:28.849801
+difficulty to take right medicine on time,"Answer:  
+To help with taking medication on time, consider these devices:  
+
+1. **Axitare Medication Dispenser** – Automatically reminds and dispenses medication at scheduled times, helping organize doses and support independent living.  
+2. **Evondos Medication Dispenser** – Provides reminders and dispenses medication as scheduled, reducing the need to remember doses.  
+3. **Smart Tablet** – Offers automated medication reminders alongside daily routine alerts, supporting adherence through visual and auditory prompts.  
+
+These devices can assist with medication management, but a healthcare professional should assess suitability for individual needs.  
+
+Source filenames: Axitare.txt, Evondos_Medication_Dispenser.txt, smart_tablet.txt","'- Axitare.txt (similarity: 0.266)
+- Evondos_Medication_Dispenser.txt (similarity: 0.262)
+- smart_tablet.txt (similarity: 0.198)",Vector search time: 0.03 seconds,2026-10-19 21:22:16.712296
