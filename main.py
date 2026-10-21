@@ -101,13 +101,27 @@ demo = gr.Interface(
     title="Wellbeing Technology AI Agent",
 
     description=(
-        "Ask questions using the wellbeing technology documents."
+        """
+### A Retrieval-Augmented Generation (RAG) AI Project
+
+**Developed by:** Faiza Urooj Khan  
+**Email:** faizaurooj.khan@edu.turkuamk.fi
+© 2026 Faiza Urooj Khan. All rights reserved.
+
+Ask questions about wellbeing and safety technologies
+using information retrieved from the project's documents.
+
+*This prototype provides informational support and is not
+a medical diagnostic tool.*
+
+"""
+
     )
 )
 
-demo.launch( 
-    server_name="127.0.0.1",
-    server_port=7860,
+demo.launch(
+     server_name="127.0.0.1",
+    server_port=7861,
     share=False,
     inbrowser=True
-    )
+)
