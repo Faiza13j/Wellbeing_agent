@@ -1,4 +1,6 @@
-Accu-Chek SmartGuide Sensor – Continuous Glucose Monitoring with Predictive Technology
+Blood Suger checking device :Accu-Chek SmartGuide Sensor – 
+
+Continuous Glucose Monitoring with Predictive Technology
 The Accu-Chek SmartGuide sensor is an innovative CGM (continuous glucose monitoring) sensor that provides real-time information about 
 your blood glucose levels without the need for fingersticks or scanning. This smart glucose sensor continuously measures tissue glucose 
 levels and automatically sends results to your smartphone via Bluetooth every five minutes. This way, you always have up-to-date 
