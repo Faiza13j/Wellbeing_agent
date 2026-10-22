@@ -26,3 +26,7 @@ his loved one can check he is totally fine.
 Important:
 The sensor should be used according to the instructions
 and privacy requirements.
+many cateegories of sensors like we can place ok door , refrigrator, microvawe, bathroom door, Entrance door, bedmat .
+if Enterence door remain open it start alarm.
+if person use all appliences like live normal daily routeen .
+if customer washroom visit increase so it shoild notice all routeen we can check on sovellus .

@@ -1,3 +1,38 @@
+Glucose Meter.
+
+### Glucose Meter
+
+A glucose meter is a useful device for people with diabetes to measure their blood sugar levels. It is generally easy to use and requires minimal training.
+
+People may need to check their blood sugar while fasting, before or after meals, at bedtime, or at other times recommended by their doctor. The frequency of testing depends on the type of diabetes, medication, and individual health needs.
+
+Doctors may recommend keeping a blood sugar record for one or two weeks, or longer if needed. This record helps patients and healthcare professionals understand changes in blood sugar levels and make informed decisions about treatment.
+
+**Common types of blood sugar charts include:**
+
+1. **Daily blood sugar chart:** Records readings at different times of the day, such as fasting, before meals, two hours after meals, and before bedtime.
+2. **Weekly blood sugar chart:** Organises daily readings over seven days to help identify patterns.
+3. **Two-week blood sugar chart:** Records readings over 14 days to help identify repeated high or low blood sugar levels.
+4. **Blood sugar and medication chart:** Records blood sugar readings alongside medication or insulin, meals, and physical activity, when relevant.
+5. **Continuous Glucose Monitoring (CGM) report:** For people using a CGM device, the report shows glucose trends throughout the day and night, including time spent within the target range.
+
+The doctor decides which chart is most suitable and how often the patient should measure their blood sugar. Patients should follow their healthcare professional’s instructions and should not change medication based only on the chart without appropriate medical advice.
+Example of a simple daily chart
+
+Diebeties chart
+
+Date           Fasting          Before lunch        2 hours after lunch    Before dinner    Bedtime
+
+	
+Monday          ___                ___                   ___                  ___
+
+
+Tuesday         ___                 ___                   ___                  ___ 
+
+	
+Wednesday       ___                 ___                   ___                  ___ 
+
+
 Non-invasive Meter-glucose Monitor Without Pricking: 2025 Upgraded Devices For Smooth Home Diabetes Monitoring-nl
 
 Quick and Easy Testing: Just insert your finger into the sensor, and the results will appear on the OLED screen in seconds. 
@@ -9,3 +44,4 @@ Non Invasive for Oxygen Meter: Equipped with a high-performance accelerometer, t
   such as climbers, skiers and cyclists.Portable Design with Long Battery Life: The device features low power consumption 
   and an auto-shutoff function. Compact and lightweight, it comes with a detachable lanyard, making it ideal for outdoor sports 
   enthusiasts and daily health monitoring.
+ 
