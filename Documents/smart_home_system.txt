@@ -2,8 +2,10 @@ Device: Smart Home System
 Category: Automated environment and safety support
 
 Description:
-A Smart Home System integrates connected devices, automated sensors, and voice controls into the living environment to streamline daily tasks, monitor safety, and support independent living for older adults.
+A Smart Home System integrates connected devices, automated sensors, and voice controls into the living environment
+ to streamline daily tasks, monitor safety, and support independent living for older adults.
 
+it helps to at night time felldown risk because lights are automatically on while moving. it sence movments and on lights
 Main functions:
 
 Automates home lighting, heating, and household appliances based on schedules or motion.

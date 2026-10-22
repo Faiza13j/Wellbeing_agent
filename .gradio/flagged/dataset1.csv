@@ -32,3 +32,61 @@ Source filenames: smart_tablet.txt, VR_glass.txt","'- Gps_device.txt (similarity
 Source filename: Smart_Skooter.txt","'- Smart_Skooter.txt (similarity: 0.403)
 - Gps_device.txt (similarity: 0.242)
 - smart_tablet.txt (similarity: 0.228)",Vector search time: 0.07 seconds,2026-10-22 22:08:34.751463
+i want blood sugar chart ,"There are several types of blood sugar charts that can be used to track blood glucose levels. Common types include:
+
+1. **Daily blood sugar chart:** Records readings at different times of the day, such as fasting, before meals, two hours after meals, and before bedtime.  
+2. **Weekly blood sugar chart:** Organizes daily readings over seven days to help identify patterns.  
+3. **Two-week blood sugar chart:** Records readings over 14 days to help identify repeated high or low blood sugar levels.  
+4. **Blood sugar and medication chart:** Records blood sugar readings alongside medication or insulin, meals, and physical activity, when relevant.  
+5. **Continuous Glucose Monitoring (CGM) report:** For people using a CGM device, the report shows glucose trends throughout the day and night, including time spent within the target range.  
+
+If you are using a **CGM device**, such as the **Accu-Chek SmartGuide sensor**, you can access real","'- Glucose_meter.txt (similarity: 0.587)
+- Accu-Chek Smart sensor.txt (similarity: 0.518)
+- Glucose_meter.txt (similarity: 0.433)",Vector search time: 0.05 seconds,2026-10-22 22:59:44.293276
+difficulty to getup from the bed  and sitting,"Difficulty getting up from the bed and sitting can be supported by using a nursing bed. A nursing bed is electrically adjustable, which allows for easier movement and positioning, making it simpler to get in and out of bed and sit comfortably.  
+
+Source filename: Nursing_Bed.txt","'- Nursing_Bed.txt (similarity: 0.377)
+- Gps_device.txt (similarity: 0.201)
+- Smart_Skooter.txt (similarity: 0.178)",Vector search time: 0.06 seconds,2026-10-22 23:01:03.677333
+difficulty in managing everyday task,"Managing everyday tasks can be challenging, and technology can help provide support and reminders. The **Smart Tablet** is a good option because it offers automated reminders for daily routines like meals, medications, and appointments. It also helps with scheduling and provides access to online wellness activities, which can support mental and physical well-being. 
+
+The **Smart Home System** can also be helpful by automating home tasks such as lighting and temperature control, making it easier for individuals with limited mobility to manage their environment.
+
+Source filename: smart_tablet.txt, smart_home_system.txt","'- smart_tablet.txt (similarity: 0.344)
+- smart_home_system.txt (similarity: 0.320)
+- Gps_device.txt (similarity: 0.252)",Vector search time: 0.05 seconds,2026-10-22 23:07:28.902820
+my mother has Difficulty walking outdoors,"Based on the information provided, a GPS tracking device or an electric rollator could be helpful for your mother's difficulty walking outdoors.
+
+A GPS tracking device can provide real-time location tracking, geofencing alerts, and an SOS button for safety and peace of mind when she is outdoors. It supports independent movement and helps caregivers stay informed about her location.
+
+An electric rollator can assist with walking, reduce effort, and provide support for stability. It may also include a seat for rest and can be used both indoors and outdoors, depending on the model.
+
+These devices are designed to support mobility and independence for people with walking difficulties.
+
+Source filename: Gps_device.txt, sähkö_roollattori.txt","'- Gps_device.txt (similarity: 0.355)
+- Gps_device.txt (similarity: 0.315)
+- sähkö_roollattori.txt (similarity: 0.289)",Vector search time: 0.04 seconds,2026-10-22 23:08:09.860183
+if a person need regular support,"If a person needs regular support, devices like the sähkörollattori (electric rollator) and the Evondos Medication Dispenser may be helpful.  
+
+The sähkörollattori can support walking, reduce fatigue, and encourage independence for people who have difficulty walking or need assistance with mobility.  
+
+The Evondos Medication Dispenser helps with medication routines by providing reminders and dispensing medication at scheduled times, which can support people who need assistance with regular medication.  
+
+Source filenames: sähkö_roollattori.txt, Evondos_Medication_Dispenser.txt","'- sähkö_roollattori.txt (similarity: 0.311)
+- sähkö_roollattori.txt (similarity: 0.295)
+- Evondos_Medication_Dispenser.txt (similarity: 0.280)",Vector search time: 0.05 seconds,2026-10-22 23:09:52.726166
+"70 years old living alone having memory issues and need to taking medicine on tine, and walking disability what devices recommend","For a 70-year-old living alone with memory issues, taking medicine on time, and having walking disability, the following devices are recommended based on the available documents:
+
+1. **Smart Tablet (Senior Tablet)** – This device provides automated reminders for medication and daily routines, which can help with memory issues and ensure timely medicine intake. It also supports video calls with family and care staff, which is important for staying connected.  
+2. **VR Glasses (Virtual Reality Headsets)** – These can help reduce loneliness and provide mental stimulation through calming environments and interactive activities, which is beneficial for someone with memory challenges and limited mobility.  
+
+**Source filenames:** smart_tablet.txt, VR_glass.txt","'- smart_tablet.txt (similarity: 0.601)
+- VR_glass.txt (similarity: 0.469)
+- sähkö_roollattori.txt (similarity: 0.462)",Vector search time: 0.05 seconds,2026-10-22 23:11:30.689745
+person lives alone falls frequently specially night time,"An Emergency Button could be helpful for a person who lives alone and falls frequently, especially at night. This device can automatically trigger an alert if a fall is detected, ensuring timely assistance. It is suitable for individuals at risk of falls and can provide peace of mind for family members.
+
+Emergency Button is relevant because it offers automatic fall detection and immediate emergency alerts, which can be critical during nighttime falls when the person may not be able to press the button.
+
+Source filename: emergency_button.txt","'- emergency_button.txt (similarity: 0.332)
+- Gps_device.txt (similarity: 0.324)
+- Motion_Home_Sensor.txt (similarity: 0.310)",Vector search time: 0.06 seconds,2026-10-22 23:12:48.101222
