@@ -15,3 +15,20 @@ Source filenames: Axitare.txt, Evondos_Medication_Dispenser.txt, smart_tablet.tx
 - Evondos_Medication_Dispenser.txt (similarity: 0.262)
 - smart_tablet.txt (similarity: 0.198)",Vector search time: 0.03 seconds,2026-10-19 21:22:16.712296
 difficulty in reading like books or letter,,,,2026-10-22 00:28:02.862324
+feeling tired wants some relaxing device,"For feeling tired and wanting some relaxing, the **Massage Mat** is a good choice. It provides soft vibrations and a heating function to relieve stress and tension in the body, which can help with relaxation. It is easy to use and suitable for different environments.  
+
+Source filename: Massage mat.txt","'- smart_tablet.txt (similarity: 0.425)
+- VR_glass.txt (similarity: 0.388)
+- Massage mat.txt (similarity: 0.384)",Vector search time: 0.06 seconds,2026-10-22 21:54:24.265168
+"89 years old having memory issues ,and difficulty in moving around also going for outside","For an 89-year-old with memory issues and difficulty moving around, the **Smart Tablet** would be a good recommendation. It provides reminders for daily routines, supports communication with family and caregivers, and includes brain-training activities to help with memory. It also allows for virtual travel and access to wellness classes, which can help with staying active and connected.
+
+The **VR Glasses** could also be helpful. They offer calming virtual environments and can stimulate memories, which may be beneficial for someone with memory issues. They also provide entertainment and can help reduce feelings of loneliness.
+
+Source filenames: smart_tablet.txt, VR_glass.txt","'- Gps_device.txt (similarity: 0.577)
+- smart_tablet.txt (similarity: 0.368)
+- VR_glass.txt (similarity: 0.348)",Vector search time: 0.03 seconds,2026-10-22 21:57:09.672375
+89 years old difficulty in walking long routs ,"For an 89-year-old experiencing difficulty with long walks, the **Smart Skooter** is a suitable option. It is designed for seniors and people with limited mobility, allowing them to move independently and comfortably. The scooter has a driving range of 30 km and a maximum speed of 6.5 km/h, making it safe for outdoor use. It also features an adjustable seat height and easy-to-use controls, which enhance comfort and accessibility.
+
+Source filename: Smart_Skooter.txt","'- Smart_Skooter.txt (similarity: 0.403)
+- Gps_device.txt (similarity: 0.242)
+- smart_tablet.txt (similarity: 0.228)",Vector search time: 0.07 seconds,2026-10-22 22:08:34.751463
